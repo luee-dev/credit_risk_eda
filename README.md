@@ -2,7 +2,7 @@
 
 ## Credit EDA Case Study
 Problem Statement: This case study, as a compnany, consumers application, incapable of repaying the loan is to be turned down.
-Here we attemptto determine tredns suggesting that a client's credi history is not optimal using EDA. 
+Here we attempt to determine trends suggesting that a client's credit history is not optimal using EDA. 
 The conclusion derived from EDA may help us make decisions about their loan application.
 
 Datest: [google drive](https://drive.google.com/drive/folders/16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB)
